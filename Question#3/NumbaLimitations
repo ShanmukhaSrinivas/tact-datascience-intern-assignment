@@ -1,0 +1,4 @@
+1. Only a few of the numpy operations will be available to use inside a functions of the program when a numba decorator is used.
+2. Numba will not be able to determine type of lists.
+3. Highly memory insensitive.
+4. Not all algorithms can be vectorized.
